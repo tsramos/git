@@ -8,6 +8,8 @@ namespace exemplo_git
         {
             Console.WriteLine("Hello World!");
             Console.WriteLine("Criado o projeto e adicionando mudanca");
+
+            Pessoa pessoa = new Pessoa("Edinei", 18);
         }
     }
 }
