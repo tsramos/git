@@ -7,6 +7,7 @@ namespace exemplo_git
         static void Main(string[] args)
         {
             Console.WriteLine("Hello World!");
+            Console.WriteLine("Criado o projeto e adicionando mudanca");
         }
     }
 }
